@@ -28,7 +28,7 @@ function ExpenseForm(props) {
     setEteredDate(event.target.value);
     // setUserInput({
     //   ...userInput,
-    //   enteredDate: event.taget.value,
+    //   enteredDate: event.target.value,
     // });
   };
 
